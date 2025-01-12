@@ -3,6 +3,7 @@
 ## Scratch, Snap, Blockly und Co.
 
 - [Snap](https://snap.berkeley.edu/)
+  - [Snap im Browser programmieren und benutzen](https://snap.berkeley.edu/snap/snap.html)
 
 ## 2D-Grafik mit Turtel
 
