@@ -1,5 +1,9 @@
 # Material für den Einstieg in die Programmierung
 
+## Materialsammlungen
+
+-  [Freies Material für den Informatikunterricht](https://cpothmann.de)
+
 ## Scratch, Snap, Blockly und Co.
 
 - [Snap](https://snap.berkeley.edu/)
