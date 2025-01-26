@@ -9,9 +9,15 @@
 - [Snap](https://snap.berkeley.edu/)
   - [Snap im Browser programmieren und benutzen](https://snap.berkeley.edu/snap/snap.html)
 
-## 2D-Grafik mit Turtel
+## 2D-Grafik mit Turtle
 
-- [Turtel mit Python](https://pythonsandbox.com/turtle)
+- [Turtle mit Python](https://pythonsandbox.com/turtle)
+
+## Hedy
+
+... textbasierte Programmiersprache für Einsteiger
+
+- https://hedy.org/hedy
 
 ## Python
 
